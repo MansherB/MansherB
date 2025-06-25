@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a software engineering student at the **Univer
 - 🛠️ Always exploring new technologies and improving my coding skills
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, C, Java
-- **Frameworks**: React, Node.js, Express
+- **Languages**: Python, C, Java, MATLAB
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, VS Code, MATLAB
+- **Tools**: Git, VS Code
 
 ## 📫 Connect with Me
 - GitHub: [MansherB](https://https://github.com/MansherB
